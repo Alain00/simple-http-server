@@ -1,0 +1,16 @@
+{
+  "name": "simple-http-server",
+  "version": "1.0",
+  "author": "alain00.alvarez@gmail.com",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "greenlock-express": "^3.1.1",
+    "html": "^1.0.0",
+    "http": "^0.0.0",
+    "https": "^1.0.0"
+  }
+}
